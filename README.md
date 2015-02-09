@@ -6,3 +6,4 @@ Creating quick Simple
 creating creating a new branch is quick and simple
 fenzhiguanlicelue
 test push once
+test2 push once
